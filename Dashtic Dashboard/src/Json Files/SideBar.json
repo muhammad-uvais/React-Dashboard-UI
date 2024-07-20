@@ -1,0 +1,63 @@
+[
+    {
+        "title" : "Dashboard",
+        "icon" : "fa-solid fa-house-user"
+    },
+    {
+        "title" : "Apps",
+        "icon" : "fa-brands fa-intercom"
+    },
+    {
+        "title" : "Widgets",
+        "icon" : "fa-sharp fa-solid fa-draw-polygon"
+    },
+    {
+        "title" : "Forms",
+        "icon" : "fa-brands fa-wpforms"
+    },
+    {
+        "title" : "Charts",
+        "icon" : "fa-solid fa-chart-pie"
+    },
+    {
+        "title" : "Tables",
+        "icon" : "fa-solid fa-table"
+    },
+    {
+        "title" :"Maps",
+        "icon" : "fa-solid fa-location-dot"
+    },
+    {
+        "title" : "Elements",
+        "icon" : "fa-brands fa-elementor"
+    },
+    {
+        "title" : "Icons",
+        "icon" : "fa-solid fa-droplet"
+    },
+    {
+        "title" : "Advances Ui",
+        "icon" : "fa-brands fa-uikit"
+    },
+    {
+        "title" : "Pages",
+        "icon" : "fa-solid fa-file"
+    },
+    {
+        "title" : "Nested Menu",
+        "icon" : "fa-solid fa-bars"
+    },
+    {
+        "title" : "Accounts",
+        "icon" : "fa-solid fa-user-tie"
+    },
+    {
+        "title" : "Errors Pages",
+        "icon" : "fa-solid fa-triangle-exclamation"
+    },
+    {
+        "title" : "Utilities",
+        "icon" : "fa-brands fa-slack"
+    }
+]
+

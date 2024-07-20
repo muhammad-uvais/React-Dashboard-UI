@@ -1,0 +1,42 @@
+[
+    {
+        "imagePath" : "src/assets/john.jpg",
+        "name" : "John Wisely",
+        "address" : "1340 Gills Rd , VA , 23139"
+    },
+    {
+        "imagePath" : "src/assets/nicki.jpg ",
+        "name" : "Nicki Fanning",
+        "address" : "408 1st St, NC, 28468"
+    },
+    {
+        "imagePath" : "src/assets/lula.jpg",
+        "name" : "Lula Malone",
+        "address" : "104 Jefferson Ln, TN, 37643"
+    },
+    {
+        "imagePath" : "src/assets/rina.jpg",
+        "name" : "Rina Summa",
+        "address" : "49 Scott Dr, NY, 10941"
+    },
+    {
+        "imagePath" : "src/assets/yadira.jpg",
+        "name" : "Yadira Acklin",
+        "address" : "507 E 22nd St S, IA, 50208"
+    },
+    {
+        "imagePath" : "src/assets/joanna.jpg",
+        "name" : "Joanna Latta",
+        "address" : "511 N Walnut St, LA, 71082"
+    },
+    {
+        "imagePath" : "src/assets/john.jpg",
+        "name" : "John Wisely",
+        "address" : "1340 Gills Rd , VA , 23139"
+    },
+    {
+        "imagePath" : "src/assets/nicki.jpg",
+        "name" : "Nicki Fanning",
+        "address" : "1340 Gills Rd , VA , 23139"
+    }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "country": "AF",
+    "value": null
+  },
+  {
+    "country": "AL",
+    "value": null
+  },
+  {
+    "country": "DZ",
+    "value": null
+  },
+  {
+    "country": "AD",
+    "value": null
+  },
+  {
+    "country": "AO",
+    "value": null
+  },
+  {
+    "country": "AR",
+    "value": null
+  },
+  {
+    "country": "AM",
+    "value": null
+  },
+  {
+    "country": "AU",
+    "value": null
+  },
+  {
+    "country": "AT",
+    "value": null
+  },
+  {
+    "country": "AZ",
+    "value": null
+  },
+  {
+    "country": "BH",
+    "value": null
+  },
+  {
+    "country": "BD",
+    "value": null
+  },
+  {
+    "country": "BY",
+    "value": null
+  },
+  {
+    "country": "BE",
+    "value": null
+  },
+  {
+    "country": "BZ",
+    "value": null
+  },
+  {
+    "country": "BJ",
+    "value": null
+  },
+  {
+    "country": "BT",
+    "value": null
+  },
+  {
+    "country": "BO",
+    "value": null
+  },
+  {
+    "country": "BA",
+    "value": null
+  },
+  {
+    "country": "BW",
+    "value": null
+  },
+  {
+    "country": "BR",
+    "value": null
+  },
+  {
+    "country": "BN",
+    "value": null
+  },
+  {
+    "country": "BG",
+    "value": null
+  },
+  {
+    "country": "BF",
+    "value": null
+  },
+  {
+    "country": "BI",
+    "value": null
+  },
+  {
+    "country": "KH",
+    "value": null
+  },
+  {
+    "country": "CM",
+    "value": null
+  },
+  {
+    "country": "CA",
+    "value": null
+  },
+  {
+    "country": "CV",
+    "value": null
+  },
+  {
+    "country": "CF",
+    "value": null
+  },
+  {
+    "country": "TD",
+    "value": null
+  },
+  {
+    "country": "CL",
+    "value": null
+  },
+  {
+    "country": "CO",
+    "value": null
+  },
+  {
+    "country": "KM",
+    "value": null
+  },
+  {
+    "country": "CD",
+    "value": null
+  },
+  {
+    "country": "CG",
+    "value": null
+  },
+  {
+    "country": "CR",
+    "value": null
+  },
+  {
+    "country": "HR",
+    "value": null
+  },
+  {
+    "country": "CU",
+    "value": null
+  },
+  {
+    "country": "CY",
+    "value": null
+  },
+  {
+    "country": "CZ",
+    "value": null
+  },
+  {
+    "country": "DK",
+    "value": null
+  },
+  {
+    "country": "DJ",
+    "value": null
+  },
+  {
+    "country": "DM",
+    "value": null
+  },
+  {
+    "country": "DO",
+    "value": null
+  },
+  {
+    "country": "EC",
+    "value": null
+  },
+  {
+    "country": "EG",
+    "value": null
+  },
+  {
+    "country": "SV",
+    "value": null
+  },
+  {
+    "country": "GQ",
+    "value": null
+  },
+  {
+    "country": "ER",
+    "value": null
+  },
+  {
+    "country": "EE",
+    "value": null
+  },
+  {
+    "country": "ET",
+    "value": null
+  },
+  {
+    "country": "FJ",
+    "value": null
+  },
+  {
+    "country": "FI",
+    "value": null
+  },
+  {
+    "country": "FR",
+    "value": null
+  },
+  {
+    "country": "GA",
+    "value": null
+  },
+  {
+    "country": "GM",
+    "value": null
+  },
+  {
+    "country": "GE",
+    "value": null
+  },
+  {
+    "country": "DE",
+    "value": null
+  },
+  {
+    "country": "GH",
+    "value": null
+  },
+  {
+    "country": "GR",
+    "value": null
+  },
+  {
+    "country": "GD",
+    "value": null
+  },
+  {
+    "country": "GT",
+    "value": null
+  },
+  {
+    "country": "GN",
+    "value": null
+  },
+  {
+    "country": "GW",
+    "value": null
+  },
+  {
+    "country": "GY",
+    "value": null
+  },
+  {
+    "country": "HT",
+    "value": null
+  },
+  {
+    "country": "HN",
+    "value": null
+  },
+  {
+    "country": "HU",
+    "value": null
+  },
+  {
+    "country": "IS",
+    "value": null
+  },
+  {
+    "country": "IN",
+    "value": null
+  },
+  {
+    "country": "ID",
+    "value": null
+  },
+  {
+    "country": "IR",
+    "value": null
+  },
+  {
+    "country": "IQ",
+    "value": null
+  },
+  {
+    "country": "IE",
+    "value": null
+  },
+  {
+    "country": "IL",
+    "value": null
+  },
+  {
+    "country": "IT",
+    "value": null
+  },
+  {
+    "country": "JM",
+    "value": null
+  },
+  {
+    "country": "JP",
+    "value": null
+  },
+  {
+    "country": "JO",
+    "value": null
+  },
+  {
+    "country": "KZ",
+    "value": null
+  },
+  {
+    "country": "KE",
+    "value": null
+  },
+  {
+    "country": "KI",
+    "value": null
+  },
+  {
+    "country": "KW",
+    "value": null
+  },
+  {
+    "country": "KG",
+    "value": null
+  },
+  {
+    "country": "LA",
+    "value": null
+  },
+  {
+    "country": "LV",
+    "value": null
+  },
+  {
+    "country": "LB",
+    "value": null
+  },
+  {
+    "country": "LS",
+    "value": null
+  },
+  {
+    "country": "LR",
+    "value": null
+  },
+  {
+    "country": "LY",
+    "value": null
+  },
+  {
+    "country": "LI",
+    "value": null
+  },
+  {
+    "country": "LT",
+    "value": null
+  },
+  {
+    "country": "LU",
+    "value": null
+  },
+  {
+    "country": "MG",
+    "value": null
+  },
+  {
+    "country": "MW",
+    "value": null
+  },
+  {
+    "country": "MY",
+    "value": null
+  },
+  {
+    "country": "MV",
+    "value": null
+  },
+  {
+    "country": "ML",
+    "value": null
+  },
+  {
+    "country": "MT",
+    "value": null
+  },
+  {
+    "country": "MH",
+    "value": null
+  },
+  {
+    "country": "MR",
+    "value": null
+  },
+  {
+    "country": "MU",
+    "value": null
+  },
+  {
+    "country": "MX",
+    "value": null
+  },
+  {
+    "country": "FM",
+    "value": null
+  },
+  {
+    "country": "MD",
+    "value": null
+  },
+  {
+    "country": "MC",
+    "value": null
+  },
+  {
+    "country": "MN",
+    "value": null
+  },
+  {
+    "country": "ME",
+    "value": null
+  },
+  {
+    "country": "MA",
+    "value": null
+  },
+  {
+    "country": "MZ",
+    "value": null
+  },
+  {
+    "country": "MM",
+    "value": null
+  },
+  {
+    "country": "NA",
+    "value": null
+  },
+  {
+    "country": "NR",
+    "value": null
+  },
+  {
+    "country": "NP",
+    "value": null
+  },
+  {
+    "country": "NL",
+    "value": null
+  },
+  {
+    "country": "NZ",
+    "value": null
+  },
+  {
+    "country": "NI",
+    "value": null
+  },
+  {
+    "country": "NE",
+    "value": null
+  },
+  {
+    "country": "NG",
+    "value": null
+  },
+  {
+    "country": "KP",
+    "value": null
+  },
+  {
+    "country": "MK",
+    "value": null
+  },
+  {
+    "country": "NO",
+    "value": null
+  },
+  {
+    "country": "OM",
+    "value": null
+  },
+  {
+    "country": "PK",
+    "value": null
+  },
+  {
+    "country": "PW",
+    "value": null
+  },
+  {
+    "country": "PS",
+    "value": null
+  },
+  {
+    "country": "PA",
+    "value": null
+  },
+  {
+    "country": "PG",
+    "value": null
+  },
+  {
+    "country": "PY",
+    "value": null
+  },
+  {
+    "country": "PE",
+    "value": null
+  },
+  {
+    "country": "PH",
+    "value": null
+  },
+  {
+    "country": "PL",
+    "value": null
+  },
+  {
+    "country": "PT",
+    "value": null
+  },
+  {
+    "country": "QA",
+    "value": null
+  },
+  {
+    "country": "RO",
+    "value": null
+  },
+  {
+    "country": "RU",
+    "value": null
+  },
+  {
+    "country": "RW",
+    "value": null
+  },
+  {
+    "country": "WS",
+    "value": null
+  },
+  {
+    "country": "SM",
+    "value": null
+  },
+  {
+    "country": "ST",
+    "value": null
+  },
+  {
+    "country": "SA",
+    "value": null
+  },
+  {
+    "country": "SN",
+    "value": null
+  },
+  {
+    "country": "RS",
+    "value": null
+  },
+  {
+    "country": "SC",
+    "value": null
+  },
+  {
+    "country": "SL",
+    "value": null
+  },
+  {
+    "country": "SG",
+    "value": null
+  },
+  {
+    "country": "SK",
+    "value": null
+  },
+  {
+    "country": "SI",
+    "value": null
+  },
+  {
+    "country": "SB",
+    "value": null
+  },
+  {
+    "country": "SO",
+    "value": null
+  },
+  {
+    "country": "ZA",
+    "value": null
+  },
+  {
+    "country": "KR",
+    "value": null
+  },
+  {
+    "country": "SS",
+    "value": null
+  },
+  {
+    "country": "ES",
+    "value": null
+  },
+  {
+    "country": "LK",
+    "value": null
+  },
+  {
+    "country": "KN",
+    "value": null
+  },
+  {
+    "country": "LC",
+    "value": null
+  },
+  {
+    "country": "VC",
+    "value": null
+  },
+  {
+    "country": "SD",
+    "value": null
+  },
+  {
+    "country": "SR",
+    "value": null
+  },
+  {
+    "country": "SZ",
+    "value": null
+  },
+  {
+    "country": "SE",
+    "value": null
+  },
+  {
+    "country": "CH",
+    "value": null
+  },
+  {
+    "country": "SY",
+    "value": null
+  },
+  {
+    "country": "TJ",
+    "value": null
+  },
+  {
+    "country": "TZ",
+    "value": null
+  },
+  {
+    "country": "TH",
+    "value": null
+  },
+  {
+    "country": "TL",
+    "value": null
+  },
+  {
+    "country": "TG",
+    "value": null
+  },
+  {
+    "country": "TO",
+    "value": null
+  },
+  {
+    "country": "TT",
+    "value": null
+  },
+  {
+    "country": "TN",
+    "value": null
+  },
+  {
+    "country": "TR",
+    "value": null
+  },
+  {
+    "country": "TM",
+    "value": null
+  },
+  {
+    "country": "TV",
+    "value": null
+  },
+  {
+    "country": "UG",
+    "value": null
+  },
+  {
+    "country": "UA",
+    "value": null
+  },
+  {
+    "country": "AE",
+    "value": null
+  },
+  {
+    "country": "GB",
+    "value": null
+  },
+  {
+    "country": "US",
+    "value": null
+  },
+  {
+    "country": "UY",
+    "value": null
+  },
+  {
+    "country": "UZ",
+    "value": null
+  },
+  {
+    "country": "VU",
+    "value": null
+  },
+  {
+    "country": "VA",
+    "value": null
+  },
+  {
+    "country": "VE",
+    "value": null
+  },
+  {
+    "country": "VN",
+    "value": null
+  },
+  {
+    "country": "YE",
+    "value": null
+  },
+  {
+    "country": "ZM",
+    "value": null
+  },
+  {
+    "country": "ZW",
+    "value": null
+  }
+]

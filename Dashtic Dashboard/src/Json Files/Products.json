@@ -1,0 +1,37 @@
+[
+    {
+        "image" : "src/assets/latestbooks.jpg",
+        "name" : "Latest Books",
+        "quantity" : "2,30,400 times"
+    },
+    {
+        "image" : "src/assets/shoes.jpg",
+        "name" : "New Branded Shoes",
+        "quantity" : "3,45,665 times"
+    },
+    {
+        "image" : "src/assets/makeupkit.jpg",
+        "name" : "Beauty Makeup Kit",
+        "quantity" : "5,23,324 times"
+    },
+    {
+        "image" : "src/assets/headset.jpg",
+        "name" : "Headset",
+        "quantity" : "1,42,400 times"
+    },
+    {
+        "image" : "src/assets/modalshoes.jpg",
+        "name" : "New Modal Shoes",
+        "quantity" : "3,45,665 times"
+    },
+    {
+        "image" : "src/assets/latestbooks.jpg",
+        "name" : "Latest Books",
+        "quantity" : "5,23,324 times"
+    },
+    {
+        "image" : "src/assets/shoes.jpg",
+        "name" : "New Branded Shoes",
+        "quantity" : "1,42,400 times"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "seller": "ABC Electronics",
+        "totalSales": 55000,
+        "activeStocks": 1300,
+        "category": "Electronics",
+        "revenue": "$275,000",
+        "status": "Active"
+    },
+    {
+        "seller": "XYZ Fashion",
+        "totalSales": 72000,
+        "activeStocks": 850,
+        "category": "Clothing",
+        "revenue": "$360,000",
+        "status": "Active"
+    },
+    {
+        "seller": "PQR Home Goods",
+        "totalSales": 42000,
+        "activeStocks": 1600,
+        "category": "Home Decor",
+        "revenue": "$210,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "LMN Appliances",
+        "totalSales": 63000,
+        "activeStocks": 950,
+        "category": "Appliances",
+        "revenue": "$315,000",
+        "status": "Active"
+    },
+    {
+        "seller": "EFG Sports",
+        "totalSales": 68000,
+        "activeStocks": 700,
+        "category": "Sports",
+        "revenue": "$340,000",
+        "status": "Active"
+    },
+    {
+        "seller": "RST Furniture",
+        "totalSales": 38000,
+        "activeStocks": 1800,
+        "category": "Furniture",
+        "revenue": "$190,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "JKL Beauty",
+        "totalSales": 48000,
+        "activeStocks": 1400,
+        "category": "Beauty",
+        "revenue": "$240,000",
+        "status": "Active"
+    },
+    {
+        "seller": "MNO Toys",
+        "totalSales": 32000,
+        "activeStocks": 2200,
+        "category": "Toys",
+        "revenue": "$160,000",
+        "status": "Active"
+    },
+    {
+        "seller": "STU Books",
+        "totalSales": 59000,
+        "activeStocks": 1100,
+        "category": "Books",
+        "revenue": "$295,000",
+        "status": "Active"
+    },
+    {
+        "seller": "VWX Jewelry",
+        "totalSales": 45000,
+        "activeStocks": 1500,
+        "category": "Jewelry",
+        "revenue": "$225,000",
+        "status": "Active"
+    },
+    {
+        "seller": "OPQ Electronics",
+        "totalSales": 58000,
+        "activeStocks": 1200,
+        "category": "Sports",
+        "revenue": "$290,000",
+        "status": "Active"
+    },
+    {
+        "seller": "DEF Fashion",
+        "totalSales": 67000,
+        "activeStocks": 800,
+        "category": "Clothing",
+        "revenue": "$335,000",
+        "status": "Active"
+    },
+    {
+        "seller": "GHI Home Goods",
+        "totalSales": 41000,
+        "activeStocks": 1700,
+        "category": "Home Decor",
+        "revenue": "$205,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "JKL Appliances",
+        "totalSales": 61000,
+        "activeStocks": 900,
+        "category": "Appliances",
+        "revenue": "$305,000",
+        "status": "Active"
+    },
+    {
+        "seller": "MNO Sports",
+        "totalSales": 69000,
+        "activeStocks": 650,
+        "category": "Sports",
+        "revenue": "$345,000",
+        "status": "Active"
+    },
+    {
+        "seller": "PQR Furniture",
+        "totalSales": 35000,
+        "activeStocks": 1900,
+        "category": "Furniture",
+        "revenue": "$175,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "STU Beauty",
+        "totalSales": 52000,
+        "activeStocks": 1300,
+        "category": "Beauty",
+        "revenue": "$260,000",
+        "status": "Active"
+    },
+    {
+        "seller": "VWX Toys",
+        "totalSales": 37000,
+        "activeStocks": 2100,
+        "category": "Toys",
+        "revenue": "$185,000",
+        "status": "Active"
+    },
+    {
+        "seller": "YZA Books",
+        "totalSales": 60000,
+        "activeStocks": 1000,
+        "category": "Books",
+        "revenue": "$300,000",
+        "status": "Active"
+    },
+    {
+        "seller": "BCD Jewelry",
+        "totalSales": 49000,
+        "activeStocks": 1400,
+        "category": "Jewelry",
+        "revenue": "$245,000",
+        "status": "Active"
+    },
+    {
+        "seller": "EFG Electronics",
+        "totalSales": 54000,
+        "activeStocks": 1100,
+        "category": "Electronics",
+        "revenue": "$270,000",
+        "status": "Active"
+    },
+    {
+        "seller": "HIJ Fashion",
+        "totalSales": 69000,
+        "activeStocks": 850,
+        "category": "Clothing",
+        "revenue": "$345,000",
+        "status": "Active"
+    },
+    {
+        "seller": "KLM Home Goods",
+        "totalSales": 48000,
+        "activeStocks": 1500,
+        "category": "Home Decor",
+        "revenue": "$240,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "NOP Appliances",
+        "totalSales": 62000,
+        "activeStocks": 950,
+        "category": "Appliances",
+        "revenue": "$310,000",
+        "status": "Active"
+    },
+    {
+        "seller": "QRS Sports",
+        "totalSales": 70000,
+        "activeStocks": 700,
+        "category": "Sports",
+        "revenue": "$350,000",
+        "status": "Active"
+    },
+    {
+        "seller": "TUV Furniture",
+        "totalSales": 40000,
+        "activeStocks": 1800,
+        "category": "Furniture",
+        "revenue": "$200,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "WXY Beauty",
+        "totalSales": 54000,
+        "activeStocks": 1300,
+        "category": "Beauty",
+        "revenue": "$270,000",
+        "status": "Active"
+    },
+    {
+        "seller": "ZAB Toys",
+        "totalSales": 33000,
+        "activeStocks": 2200,
+        "category": "Toys",
+        "revenue": "$165,000",
+        "status": "Active"
+    },
+    {
+        "seller": "CDE Books",
+        "totalSales": 61000,
+        "activeStocks": 1050,
+        "category": "Books",
+        "revenue": "$305,000",
+        "status": "Active"
+    },
+    {
+        "seller": "FGH Jewelry",
+        "totalSales": 47000,
+        "activeStocks": 1550,
+        "category": "Jewelry",
+        "revenue": "$235,000",
+        "status": "Active"
+    },
+    {
+        "seller": "IJK Electronics",
+        "totalSales": 56000,
+        "activeStocks": 1200,
+        "category": "Electronics",
+        "revenue": "$280,000",
+        "status": "Active"
+    },
+    {
+        "seller": "LMN Fashion",
+        "totalSales": 73000,
+        "activeStocks": 800,
+        "category": "Clothing",
+        "revenue": "$365,000",
+        "status": "Active"
+    },
+    {
+        "seller": "OPQ Home Goods",
+        "totalSales": 43000,
+        "activeStocks": 1700,
+        "category": "Home Decor",
+        "revenue": "$215,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "RST Appliances",
+        "totalSales": 64000,
+        "activeStocks": 900,
+        "category": "Appliances",
+        "revenue": "$320,000",
+        "status": "Active"
+    },
+    {
+        "seller": "UVW Sports",
+        "totalSales": 71000,
+        "activeStocks": 650,
+        "category": "Sports",
+        "revenue": "$355,000",
+        "status": "Active"
+    },
+    {
+        "seller": "XYZ Furniture",
+        "totalSales": 36000,
+        "activeStocks": 1900,
+        "category": "Furniture",
+        "revenue": "$180,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "ABC Beauty",
+        "totalSales": 53000,
+        "activeStocks": 1300,
+        "category": "Beauty",
+        "revenue": "$265,000",
+        "status": "Active"
+    },
+    {
+        "seller": "DEF Toys",
+        "totalSales": 34000,
+        "activeStocks": 2100,
+        "category": "Toys",
+        "revenue": "$170,000",
+        "status": "Active"
+    },
+    {
+        "seller": "GHI Books",
+        "totalSales": 62000,
+        "activeStocks": 1000,
+        "category": "Books",
+        "revenue": "$310,000",
+        "status": "Active"
+    },
+    {
+        "seller": "JKL Jewelry",
+        "totalSales": 49000,
+        "activeStocks": 1400,
+        "category": "Jewelry",
+        "revenue": "$245,000",
+        "status": "Active"
+    },
+    {
+        "seller": "MNO Electronics",
+        "totalSales": 55000,
+        "activeStocks": 1200,
+        "category": "Electronics",
+        "revenue": "$275,000",
+        "status": "Active"
+    },
+    {
+        "seller": "PQR Fashion",
+        "totalSales": 74000,
+        "activeStocks": 800,
+        "category": "Kids Clothing",
+        "revenue": "$370,000",
+        "status": "Active"
+    },
+    {
+        "seller": "STU Home Goods",
+        "totalSales": 44000,
+        "activeStocks": 1600,
+        "category": "Home Decor",
+        "revenue": "$220,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "VWX Appliances",
+        "totalSales": 65000,
+        "activeStocks": 850,
+        "category": "Appliances",
+        "revenue": "$325,000",
+        "status": "Active"
+    },
+    {
+        "seller": "YZA Sports",
+        "totalSales": 72000,
+        "activeStocks": 650,
+        "category": "Sports",
+        "revenue": "$360,000",
+        "status": "Active"
+    },
+    {
+        "seller": "BCD Furniture",
+        "totalSales": 37000,
+        "activeStocks": 1700,
+        "category": "Furniture",
+        "revenue": "$185,000",
+        "status": "Inactive"
+    },
+    {
+        "seller": "EFG Beauty",
+        "totalSales": 54000,
+        "activeStocks": 1300,
+        "category": "Beauty",
+        "revenue": "$270,000",
+        "status": "Active"
+    },
+    {
+        "seller": "HIJ Toys",
+        "totalSales": 35000,
+        "activeStocks": 2200,
+        "category": "Accessories",
+        "revenue": "$175,000",
+        "status": "Active"
+    },
+    {
+        "seller": "KLM Books",
+        "totalSales": 63000,
+        "activeStocks": 1050,
+        "category": "Sports",
+        "revenue": "$315,000",
+        "status": "Active"
+    },
+    {
+        "seller": "NOP Jewelry",
+        "totalSales": 50000,
+        "activeStocks": 1450,
+        "category": "Watch",
+        "revenue": "$123,000",
+        "status" : "Inactive"
+    }
+]
